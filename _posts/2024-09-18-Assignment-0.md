@@ -7,7 +7,8 @@ Check out the Repo at [Github Link] !
 
 The goal of this assignment was to set up the Github Pages website for submitting assignments to the class. To do this, I forked oneof the Jekyll themes then spent some time modifying the repository until it functioned as outlined in the assignment handout. 
 
-
+Below are the built in instructions from the theme (I will delete it later)
+________________________________________________
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 Jekyll also offers powerful support for code snippets:
