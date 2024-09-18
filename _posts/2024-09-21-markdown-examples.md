@@ -1,5 +1,5 @@
 ---
-title:  Assignment 1: TBD
+title:  "Assignment 1: TBD"
 layout: post
 ---
 
