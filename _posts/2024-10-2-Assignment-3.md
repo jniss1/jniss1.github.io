@@ -1,4 +1,3 @@
-
 ---
 title: "Assignment 0: Setting up the Website"
 layout: post
