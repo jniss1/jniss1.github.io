@@ -1,5 +1,5 @@
 ---
-title: "Assignment 4: Image Compression with Singular Value Decomposition"
+title: "Assignment 3: Image Compression with Singular Value Decomposition"
 layout: post
 ---
 
