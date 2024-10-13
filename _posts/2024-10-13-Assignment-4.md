@@ -5,10 +5,10 @@ layout: post
 
 Check out the Repo at [Github Link] !
 
-## demo video
+## Demo Video
 
 <video width="600" controls>
-  <source src="https://github.com/jniss1/jniss1.github.io/blob/a64da800d295e1290b62318d2a27be20be75a04b/assets/Assignment%204%20Demo%20Vid.mov" type="video/mp4">
+  <source src="./../assets/Assignment 4 Demo Vid.mov" type="video/mp4">
   Video supposed to be here.
 </video>
 
