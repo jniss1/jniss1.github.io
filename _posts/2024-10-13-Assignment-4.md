@@ -1,9 +1,11 @@
 ---
-title: "Assignment 4: TBD"
+title: "Assignment 4: LSA Search Engine"
 layout: post
 ---
 
 Check out the Repo at [Github Link] !
+
+## demo video
 
 <video width="600" controls>
   <source src="./../assets/videos/assets/Assignment 4 Demo Vid.mov" type="video/mov">
